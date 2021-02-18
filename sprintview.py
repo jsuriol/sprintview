@@ -59,7 +59,6 @@ from django.http import HttpResponse
 from django.conf import settings
 from django.conf.urls import url
 import datetime
-import StringIO
 import requests
 import logging
 import base64
@@ -93,50 +92,6 @@ page = '''
     /*
      *  CSS Reset
      */
-	html, body, div, span, applet, object, iframe,
-	h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-	a, abbr, acronym, address, big, cite, code,
-	del, dfn, em, img, ins, kbd, q, s, samp,
-	small, strike, strong, sub, sup, tt, var,
-	b, u, i, center,
-	dl, dt, dd, ol, ul, li,
-	fieldset, form, label, legend,
-	table, caption, tbody, tfoot, thead, tr, th, td,
-	article, aside, canvas, details, embed,
-	figure, figcaption, footer, header, hgroup,
-	menu, nav, output, ruby, section, summary,
-	time, mark, audio, video {
-		margin: 0;
-		padding: 0;
-		border: 0;
-		font-size: 100%;
-		font: inherit;
-		vertical-align: baseline;
-	}
-	/* HTML5 display-role reset for older browsers */
-	article, aside, details, figcaption, figure,
-	footer, header, hgroup, menu, nav, section {
-		display: block;
-	}
-	body {
-		line-height: 115%;
-	}
-	ol, ul {
-		list-style: none;
-	}
-	blockquote, q {
-		quotes: none;
-	}
-	blockquote:before, blockquote:after,
-	q:before, q:after {
-		content: '';
-		content: none;
-	}
-	table {
-		border-collapse: separate;
-		border-spacing: 0.1em;
-	}
-
     /*  End CSS Reset   */
 
     html, body {
@@ -170,7 +125,7 @@ page = '''
         top: 0;
         left: 0;
         width: 100%;
-        height: 22%;
+        height: 23%;
         display: flex;
         -webkit-display: flex;
         flex-direction: column;
@@ -186,7 +141,7 @@ page = '''
     }
     .mid_frame {
         position: fixed;
-        top: 21.5%;
+        top: 23%;
         left: 1%;
         height: {{ mid_height }}%;
         margin-bottom: .5%;
@@ -359,22 +314,23 @@ page = '''
         -webkit-display: flex;
         align-items: center;
         -webkit-align-items: center;
-        margin-top: 5%;
-        /*border: 1px solid purple;*/
+        margin-top: 0%;
+        /*border: 1px solid green;*/
     }
     .sprint_nav_frame, .scrum_nav_frame {
+        height: 100%;
         display: flex;
         -webkit-display: flex;
         align-items: center;
         -webkit-align-items: center;
-        /*border: 2px solid orange;*/
+        /*border: 2px solid black;*/
     }
     .sprint_nav_frame {
-        width: 100%;
+        width: 50%;
         margin-left: 25%;
     }
     .scrum_nav_frame {
-        width: 100%;
+        width: 50%;
         margin-left: 7%;
     }
     .scrum_nav_header {
@@ -386,7 +342,7 @@ page = '''
     }
     .scrum_nav {
         background-color: #ffeb99;
-        font-size: 1.7em;
+        font-size: 1.5em;
     }
     .noscrum {
         font-size: 1.2em;
@@ -404,7 +360,6 @@ page = '''
         font-size: 1.0em;
     }
     .sprint_nav, .scrum_nav {
-        border: none;
         padding: 4px 8px;
         color:#660000;
         text-align: center;
@@ -414,6 +369,7 @@ page = '''
         border-radius: 50%;
         box-shadow: 0 1px #999;
         transition-duration: 0.4s;
+        /*border: 2px solid red;*/
     }
     .sprint_nav:hover, .scrum_nav:hover {
         background-color: #ffd633;
@@ -436,7 +392,7 @@ page = '''
         justify-content: flex-start;
         -webkit-justify-content: flex-start;
         padding: 0px;
-        padding-top: 13%;
+        padding-top: 1%;
         margin-left: 9.8%;
         /*border: 2px solid purple;*/
     }
@@ -793,7 +749,6 @@ page = '''
         <hr class="separator">
     </div> <!-- Top Frame  -->
     <div class="mid_frame">
-
         <div class="table_div">
             <table class="scrum">
                 <thead>
@@ -2123,16 +2078,16 @@ class View:
                         gain_str = og + '&lt;' + ('-' * ((abs(gain) / 2) - gain_str_len - 1) + gain_str) + '&nbsp;' + em
                     elif gain > 0:
                         total_str = da + '[' +  str(progress) + ']' + em
-                        gain_str  = li + (('&nbsp;' * ((gain / 2) - gain_str_len)) + gain_str) + em + total_str
+                        gain_str  = li + (('&nbsp;' * (int(gain / 2) - gain_str_len)) + gain_str) + em + total_str
 
                 if prev_progress:
                     prev_progress_str     = str(prev_progress)
                     prev_progress_str_len = len(prev_progress_str)
                     if gain > 0:
-                        prev_progress_str = me + ('&nbsp;' * ((prev_progress / 2) - prev_progress_str_len) + prev_progress_str) + em
+                        prev_progress_str = me + ('&nbsp;' * (int(prev_progress / 2) - prev_progress_str_len) + prev_progress_str) + em
                     else:
                         total_str = da + '[' +  str(prev_progress) + ']' + em
-                        prev_progress_str = me +  ('&nbsp;' * ((prev_progress / 2) - prev_progress_str_len)  + prev_progress_str) + em + total_str
+                        prev_progress_str = me +  ('&nbsp;' * (int(prev_progress / 2) - prev_progress_str_len)  + prev_progress_str) + em + total_str
 
                 p = prev_progress_str + gain_str
 
@@ -2403,7 +2358,7 @@ def index(request):
     scrum_on = True if proj.active_scrum else False
     sprint_on = True if proj.active_sprint else False
 
-    mid_height = 100.5 - MIN_TOP_HEIGHT - bot_height   #  Height of middle screen frame.
+    mid_height = 100.5 - MIN_TOP_HEIGHT - bot_height - 3   #  Height of middle screen frame.
     #
     # Render view.
     #
