@@ -1,2321 +1,2321 @@
 {
+    "name": "i5k Workspace",
+    "repo_url": "https://gitlab.com/api/v3/projects/2693506/repository/files",
     "sprint_list": [
         {
+            "sprint_number": 1,
+            "sprint_date": "01/25/2017",
+            "sprint_active": false,
             "sprint_task_list": [
                 {
-                    "date": 1486130289.361066, 
-                    "desc": "Implementation of merge prototype for multi-isoform reference models", 
-                    "issue": 269, 
-                    "task_id": "hugh:269", 
-                    "devel": "hugh"
-                }, 
+                    "task_id": "hugh:269",
+                    "issue": 269,
+                    "devel": "hugh",
+                    "desc": "Implementation of merge prototype for multi-isoform reference models",
+                    "date": 1486130289.361066
+                },
                 {
-                    "date": 1486388818.046712, 
-                    "desc": "Test migrating annotations in UcA from Apollo1 to Apollo2", 
-                    "issue": 268, 
-                    "task_id": "cara:268", 
-                    "devel": "cara"
-                }, 
+                    "task_id": "cara:268",
+                    "issue": 268,
+                    "devel": "cara",
+                    "desc": "Test migrating annotations in UcA from Apollo1 to Apollo2",
+                    "date": 1486388818.046712
+                },
                 {
-                    "date": 1485531328.689196, 
-                    "desc": "update readthedocs to the new repo", 
-                    "issue": 264, 
-                    "task_id": "matt:264", 
-                    "devel": "matt"
-                }, 
+                    "task_id": "matt:264",
+                    "issue": 264,
+                    "devel": "matt",
+                    "desc": "update readthedocs to the new repo",
+                    "date": 1485531328.689196
+                },
                 {
-                    "date": 1486130289.361051, 
-                    "desc": "MERGE prototype: Remove the codes about specific ID format assumption", 
-                    "issue": 262, 
-                    "task_id": "hugh:262", 
-                    "devel": "hugh"
-                }, 
+                    "task_id": "hugh:262",
+                    "issue": 262,
+                    "devel": "hugh",
+                    "desc": "MERGE prototype: Remove the codes about specific ID format assumption",
+                    "date": 1486130289.361051
+                },
                 {
-                    "date": 1485873407.590812, 
-                    "desc": "Migrate users to Apollo2", 
-                    "issue": 261, 
-                    "task_id": "matt:261", 
-                    "devel": "matt"
-                }, 
+                    "task_id": "matt:261",
+                    "issue": 261,
+                    "devel": "matt",
+                    "desc": "Migrate users to Apollo2",
+                    "date": 1485873407.590812
+                },
                 {
-                    "date": 1486389393.476334, 
-                    "desc": "blast searches failing (celery?)", 
-                    "issue": 227, 
-                    "task_id": "kaleb:227", 
-                    "devel": "kaleb"
-                }, 
+                    "task_id": "kaleb:227",
+                    "issue": 227,
+                    "devel": "kaleb",
+                    "desc": "blast searches failing (celery?)",
+                    "date": 1486389393.476334
+                },
                 {
-                    "date": 1485357186.926634, 
-                    "desc": "Create apollo 2 database", 
-                    "issue": 260, 
-                    "task_id": "matt:260", 
-                    "devel": "matt"
-                }, 
+                    "task_id": "matt:260",
+                    "issue": 260,
+                    "devel": "matt",
+                    "desc": "Create apollo 2 database",
+                    "date": 1485357186.926634
+                },
                 {
-                    "date": 1485784011.846788, 
-                    "desc": "Migrate to Apollo 2", 
-                    "issue": 259, 
-                    "task_id": "matt:259", 
-                    "devel": "matt"
-                }, 
+                    "task_id": "matt:259",
+                    "issue": 259,
+                    "devel": "matt",
+                    "desc": "Migrate to Apollo 2",
+                    "date": 1485784011.846788
+                },
                 {
-                    "date": 1486388818.046601, 
-                    "desc": "Add Homvit records to ADC", 
-                    "issue": 258, 
-                    "task_id": "cara:258", 
-                    "devel": "cara"
-                }, 
+                    "task_id": "cara:258",
+                    "issue": 258,
+                    "devel": "cara",
+                    "desc": "Add Homvit records to ADC",
+                    "date": 1486388818.046601
+                },
                 {
-                    "date": 1486133945.333471, 
-                    "desc": "Add diaphorina records to ADC", 
-                    "issue": 257, 
-                    "task_id": "cara:257", 
-                    "devel": "cara"
-                }, 
+                    "task_id": "cara:257",
+                    "issue": 257,
+                    "devel": "cara",
+                    "desc": "Add diaphorina records to ADC",
+                    "date": 1486133945.333471
+                },
                 {
-                    "date": 1485835512.021276, 
-                    "desc": "Sprint View Automatic Removal of Task On Completion", 
-                    "issue": 256, 
-                    "task_id": "joseph:256", 
-                    "devel": "joseph"
-                }, 
+                    "task_id": "joseph:256",
+                    "issue": 256,
+                    "devel": "joseph",
+                    "desc": "Sprint View Automatic Removal of Task On Completion",
+                    "date": 1485835512.021276
+                },
                 {
-                    "date": 1485529200.075122, 
-                    "desc": "Review custom modules for Tripal API", 
-                    "issue": 255, 
-                    "task_id": "andy:255", 
-                    "devel": "andy"
-                }, 
+                    "task_id": "andy:255",
+                    "issue": 255,
+                    "devel": "andy",
+                    "desc": "Review custom modules for Tripal API",
+                    "date": 1485529200.075122
+                },
                 {
-                    "date": 1486133945.33336, 
-                    "desc": "Coordinate transfer of i5k pilot bam files to NCBI coordinates", 
-                    "issue": 251, 
-                    "task_id": "cara:251", 
-                    "devel": "cara"
-                }, 
+                    "task_id": "cara:251",
+                    "issue": 251,
+                    "devel": "cara",
+                    "desc": "Coordinate transfer of i5k pilot bam files to NCBI coordinates",
+                    "date": 1486133945.33336
+                },
                 {
-                    "date": 1486388818.04675, 
-                    "desc": "Broach UI improvements for gene-based replacement with Apollo dev team", 
-                    "issue": 250, 
-                    "task_id": "cara:250", 
-                    "devel": "cara"
-                }, 
+                    "task_id": "cara:250",
+                    "issue": 250,
+                    "devel": "cara",
+                    "desc": "Broach UI improvements for gene-based replacement with Apollo dev team",
+                    "date": 1486388818.04675
+                },
                 {
-                    "date": 1485357090.962997, 
-                    "desc": "Sprint View No-Wiki Version", 
-                    "issue": 247, 
-                    "task_id": "joseph:247", 
-                    "devel": "joseph"
-                }, 
+                    "task_id": "joseph:247",
+                    "issue": 247,
+                    "devel": "joseph",
+                    "desc": "Sprint View No-Wiki Version",
+                    "date": 1485357090.962997
+                },
                 {
-                    "date": 1486133704.652516, 
-                    "desc": "Document Dashboard's Gridstack", 
-                    "issue": 245, 
-                    "task_id": "joseph:245", 
-                    "devel": "joseph"
-                }, 
+                    "task_id": "joseph:245",
+                    "issue": 245,
+                    "devel": "joseph",
+                    "desc": "Document Dashboard's Gridstack",
+                    "date": 1486133704.652516
+                },
                 {
-                    "date": 1486130289.360962, 
-                    "desc": "Issues for the MERGE phase of Diaphorina gff files", 
-                    "issue": 244, 
-                    "task_id": "hugh:244", 
-                    "devel": "hugh"
-                }, 
+                    "task_id": "hugh:244",
+                    "issue": 244,
+                    "devel": "hugh",
+                    "desc": "Issues for the MERGE phase of Diaphorina gff files",
+                    "date": 1486130289.360962
+                },
                 {
-                    "date": 1486389976.168654, 
-                    "desc": "set up logrotate for celery", 
-                    "issue": 243, 
-                    "task_id": "matt:243", 
-                    "devel": "angela"
-                }, 
+                    "task_id": "matt:243",
+                    "issue": 243,
+                    "devel": "angela",
+                    "desc": "set up logrotate for celery",
+                    "date": 1486389976.168654
+                },
                 {
-                    "date": 1486071503.145784, 
-                    "desc": "Update python in django app to 2.7.13", 
-                    "issue": 271, 
-                    "task_id": "joseph:271", 
-                    "devel": "joseph"
+                    "task_id": "joseph:271",
+                    "issue": 271,
+                    "devel": "joseph",
+                    "desc": "Update python in django app to 2.7.13",
+                    "date": 1486071503.145784
                 }
-            ], 
+            ],
             "dev_list": [
-                "matt", 
-                "kaleb", 
-                "hugh", 
-                "angela", 
-                "joseph", 
-                "andy", 
-                "cara"
-            ], 
-            "sprint_active": false, 
-            "sprint_date": "01/25/2017", 
+                "kaleb",
+                "matt",
+                "hugh",
+                "angela",
+                "cara",
+                "joseph",
+                "andy"
+            ],
             "scrum_list": [
                 {
-                    "scrum_task_list": [], 
-                    "scrum_number": 0, 
-                    "scrum_active": false
-                }, 
+                    "scrum_number": 0,
+                    "scrum_active": false,
+                    "scrum_task_list": []
+                },
                 {
+                    "scrum_number": 1,
+                    "scrum_active": false,
                     "scrum_task_list": [
                         {
-                            "date": 1485357090.962997, 
-                            "progress": "100", 
-                            "today": false, 
-                            "task_id": "joseph:247", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "joseph:247",
+                            "progress": "100",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1485357090.962997
+                        },
                         {
-                            "date": 1485357090.963043, 
-                            "progress": "0", 
-                            "today": true, 
-                            "task_id": "joseph:256", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "joseph:256",
+                            "progress": "0",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1485357090.963043
+                        },
                         {
-                            "date": 1485357090.963069, 
-                            "progress": "10", 
-                            "today": true, 
-                            "task_id": "joseph:245", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "joseph:245",
+                            "progress": "10",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1485357090.963069
+                        },
                         {
-                            "date": 1485357186.926634, 
-                            "progress": "100", 
-                            "today": false, 
-                            "task_id": "matt:260", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:260",
+                            "progress": "100",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1485357186.926634
+                        },
                         {
-                            "date": 1485357186.926673, 
-                            "progress": "30", 
-                            "today": true, 
-                            "task_id": "matt:261", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:261",
+                            "progress": "30",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1485357186.926673
+                        },
                         {
-                            "date": 1485357186.926697, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "matt:264", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:264",
+                            "progress": "0",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1485357186.926697
+                        },
                         {
-                            "date": 1485361834.462191, 
-                            "progress": "0", 
-                            "today": true, 
-                            "task_id": "matt:259", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:259",
+                            "progress": "0",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1485361834.462191
+                        },
                         {
-                            "date": 1485357186.926741, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "andy:255", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "andy:255",
+                            "progress": "0",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1485357186.926741
+                        },
                         {
-                            "date": 1485357349.175077, 
-                            "progress": "50", 
-                            "today": true, 
-                            "task_id": "hugh:244", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "hugh:244",
+                            "progress": "50",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1485357349.175077
+                        },
                         {
-                            "date": 1485357349.175121, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "hugh:262", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "hugh:262",
+                            "progress": "0",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1485357349.175121
+                        },
                         {
-                            "date": 1485357349.175137, 
-                            "progress": "80", 
-                            "today": true, 
-                            "task_id": "hugh:269", 
-                            "blocker": "Worked on Dr. Chuang's breast cancer project in the recent two days."
+                            "task_id": "hugh:269",
+                            "progress": "80",
+                            "blocker": "Worked on Dr. Chuang's breast cancer project in the recent two days.",
+                            "today": true,
+                            "date": 1485357349.175137
                         }
-                    ], 
-                    "scrum_number": 1, 
-                    "scrum_active": false
-                }, 
+                    ]
+                },
                 {
+                    "scrum_number": 2,
+                    "scrum_active": false,
                     "scrum_task_list": [
                         {
-                            "date": "", 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "hugh:269", 
-                            "blocker": "Worked on Dr. Chuang's breast cancer project in the recent two days."
-                        }, 
+                            "task_id": "hugh:269",
+                            "progress": 0,
+                            "blocker": "Worked on Dr. Chuang's breast cancer project in the recent two days.",
+                            "today": false,
+                            "date": ""
+                        },
                         {
-                            "date": 1485438248.386051, 
-                            "progress": "90", 
-                            "today": true, 
-                            "task_id": "joseph:256", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "joseph:256",
+                            "progress": "90",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1485438248.386051
+                        },
                         {
-                            "date": 1485438248.386126, 
-                            "progress": "20", 
-                            "today": true, 
-                            "task_id": "joseph:245", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "joseph:245",
+                            "progress": "20",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1485438248.386126
+                        },
                         {
-                            "date": 1485442822.846034, 
-                            "progress": "70", 
-                            "today": false, 
-                            "task_id": "cara:258", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:258",
+                            "progress": "70",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1485442822.846034
+                        },
                         {
-                            "date": 1485442822.846104, 
-                            "progress": "50", 
-                            "today": false, 
-                            "task_id": "cara:251", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:251",
+                            "progress": "50",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1485442822.846104
+                        },
                         {
-                            "date": 1485442822.846138, 
-                            "progress": "20", 
-                            "today": false, 
-                            "task_id": "cara:268", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:268",
+                            "progress": "20",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1485442822.846138
+                        },
                         {
-                            "date": 1485442822.846171, 
-                            "progress": "10", 
-                            "today": true, 
-                            "task_id": "cara:250", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:250",
+                            "progress": "10",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1485442822.846171
+                        },
                         {
-                            "date": 1485442822.8462, 
-                            "progress": "70", 
-                            "today": false, 
-                            "task_id": "cara:257", 
-                            "blocker": ""
+                            "task_id": "cara:257",
+                            "progress": "70",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1485442822.8462
                         }
-                    ], 
-                    "scrum_number": 2, 
-                    "scrum_active": false
-                }, 
+                    ]
+                },
                 {
+                    "scrum_number": 3,
+                    "scrum_active": false,
                     "scrum_task_list": [
                         {
-                            "date": "", 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "hugh:269", 
-                            "blocker": "Worked on Dr. Chuang's breast cancer project in the recent two days."
-                        }, 
+                            "task_id": "hugh:269",
+                            "progress": 0,
+                            "blocker": "Worked on Dr. Chuang's breast cancer project in the recent two days.",
+                            "today": false,
+                            "date": ""
+                        },
                         {
-                            "date": 1485528695.614775, 
-                            "progress": "100", 
-                            "today": false, 
-                            "task_id": "joseph:256", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "joseph:256",
+                            "progress": "100",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1485528695.614775
+                        },
                         {
-                            "date": 1485529200.075071, 
-                            "progress": "40", 
-                            "today": true, 
-                            "task_id": "matt:261", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:261",
+                            "progress": "40",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1485529200.075071
+                        },
                         {
-                            "date": 1485529200.075105, 
-                            "progress": "20", 
-                            "today": true, 
-                            "task_id": "matt:259", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:259",
+                            "progress": "20",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1485529200.075105
+                        },
                         {
-                            "date": 1485529200.075122, 
-                            "progress": "10", 
-                            "today": false, 
-                            "task_id": "andy:255", 
-                            "blocker": ""
+                            "task_id": "andy:255",
+                            "progress": "10",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1485529200.075122
                         }
-                    ], 
-                    "scrum_number": 3, 
-                    "scrum_active": false
-                }, 
+                    ]
+                },
                 {
+                    "scrum_number": 4,
+                    "scrum_active": false,
                     "scrum_task_list": [
                         {
-                            "date": "", 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "hugh:269", 
-                            "blocker": "Worked on Dr. Chuang's breast cancer project in the recent two days."
-                        }, 
+                            "task_id": "hugh:269",
+                            "progress": 0,
+                            "blocker": "Worked on Dr. Chuang's breast cancer project in the recent two days.",
+                            "today": false,
+                            "date": ""
+                        },
                         {
-                            "date": 1485531328.689196, 
-                            "progress": "100", 
-                            "today": false, 
-                            "task_id": "matt:264", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:264",
+                            "progress": "100",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1485531328.689196
+                        },
                         {
-                            "date": 1485746727.028298, 
-                            "progress": "30", 
-                            "today": true, 
-                            "task_id": "joseph:245", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "joseph:245",
+                            "progress": "30",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1485746727.028298
+                        },
                         {
-                            "date": 1485784011.846753, 
-                            "progress": "70", 
-                            "today": true, 
-                            "task_id": "matt:261", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:261",
+                            "progress": "70",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1485784011.846753
+                        },
                         {
-                            "date": 1485784011.846788, 
-                            "progress": "30", 
-                            "today": true, 
-                            "task_id": "matt:259", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:259",
+                            "progress": "30",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1485784011.846788
+                        },
                         {
-                            "date": 1485786316.320673, 
-                            "progress": "70", 
-                            "today": false, 
-                            "task_id": "cara:258", 
-                            "blocker": "Need feedback from data provider"
-                        }, 
+                            "task_id": "cara:258",
+                            "progress": "70",
+                            "blocker": "Need feedback from data provider",
+                            "today": false,
+                            "date": 1485786316.320673
+                        },
                         {
-                            "date": 1485786316.320692, 
-                            "progress": "50", 
-                            "today": false, 
-                            "task_id": "cara:251", 
-                            "blocker": "Figure out BAM transfer"
-                        }, 
+                            "task_id": "cara:251",
+                            "progress": "50",
+                            "blocker": "Figure out BAM transfer",
+                            "today": false,
+                            "date": 1485786316.320692
+                        },
                         {
-                            "date": 1485786316.320702, 
-                            "progress": "30", 
-                            "today": false, 
-                            "task_id": "cara:268", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:268",
+                            "progress": "30",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1485786316.320702
+                        },
                         {
-                            "date": 1485786316.320709, 
-                            "progress": "50", 
-                            "today": true, 
-                            "task_id": "cara:250", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:250",
+                            "progress": "50",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1485786316.320709
+                        },
                         {
-                            "date": 1485786316.320717, 
-                            "progress": "70", 
-                            "today": false, 
-                            "task_id": "cara:257", 
-                            "blocker": "Need feedback from data provider"
+                            "task_id": "cara:257",
+                            "progress": "70",
+                            "blocker": "Need feedback from data provider",
+                            "today": false,
+                            "date": 1485786316.320717
                         }
-                    ], 
-                    "scrum_number": 4, 
-                    "scrum_active": false
-                }, 
+                    ]
+                },
                 {
+                    "scrum_number": 5,
+                    "scrum_active": false,
                     "scrum_task_list": [
                         {
-                            "date": "", 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "hugh:269", 
-                            "blocker": "Worked on Dr. Chuang's breast cancer project in the recent two days."
-                        }, 
+                            "task_id": "hugh:269",
+                            "progress": 0,
+                            "blocker": "Worked on Dr. Chuang's breast cancer project in the recent two days.",
+                            "today": false,
+                            "date": ""
+                        },
                         {
-                            "date": 1485875157.390764, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "cara:258", 
-                            "blocker": "Need feedback from data provider"
-                        }, 
+                            "task_id": "cara:258",
+                            "progress": "0",
+                            "blocker": "Need feedback from data provider",
+                            "today": false,
+                            "date": 1485875157.390764
+                        },
                         {
-                            "date": 1485875157.391211, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "cara:257", 
-                            "blocker": "Need feedback from data provider"
-                        }, 
+                            "task_id": "cara:257",
+                            "progress": "0",
+                            "blocker": "Need feedback from data provider",
+                            "today": false,
+                            "date": 1485875157.391211
+                        },
                         {
-                            "date": 1485875157.390846, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "cara:251", 
-                            "blocker": "Figure out BAM transfer"
-                        }, 
+                            "task_id": "cara:251",
+                            "progress": "0",
+                            "blocker": "Figure out BAM transfer",
+                            "today": false,
+                            "date": 1485875157.390846
+                        },
                         {
-                            "date": 1485835512.021276, 
-                            "progress": "100", 
-                            "today": false, 
-                            "task_id": "joseph:256", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "joseph:256",
+                            "progress": "100",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1485835512.021276
+                        },
                         {
-                            "date": 1485873407.590812, 
-                            "progress": "70", 
-                            "today": true, 
-                            "task_id": "matt:261", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:261",
+                            "progress": "70",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1485873407.590812
+                        },
                         {
-                            "date": 1485875157.390905, 
-                            "progress": "40", 
-                            "today": true, 
-                            "task_id": "cara:268", 
-                            "blocker": "Need feedback from Nathan on groovy scripts"
-                        }, 
+                            "task_id": "cara:268",
+                            "progress": "40",
+                            "blocker": "Need feedback from Nathan on groovy scripts",
+                            "today": true,
+                            "date": 1485875157.390905
+                        },
                         {
-                            "date": 1485875157.39116, 
-                            "progress": "50", 
-                            "today": false, 
-                            "task_id": "cara:250", 
-                            "blocker": ""
+                            "task_id": "cara:250",
+                            "progress": "50",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1485875157.39116
                         }
-                    ], 
-                    "scrum_number": 5, 
-                    "scrum_active": false
-                }, 
+                    ]
+                },
                 {
+                    "scrum_number": 6,
+                    "scrum_active": false,
                     "scrum_task_list": [
                         {
-                            "date": "", 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "hugh:269", 
-                            "blocker": "Worked on Dr. Chuang's breast cancer project in the recent two days."
-                        }, 
+                            "task_id": "hugh:269",
+                            "progress": 0,
+                            "blocker": "Worked on Dr. Chuang's breast cancer project in the recent two days.",
+                            "today": false,
+                            "date": ""
+                        },
                         {
-                            "date": "", 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "cara:268", 
-                            "blocker": "Need feedback from Nathan on groovy scripts"
-                        }, 
+                            "task_id": "cara:268",
+                            "progress": 0,
+                            "blocker": "Need feedback from Nathan on groovy scripts",
+                            "today": false,
+                            "date": ""
+                        },
                         {
-                            "date": "", 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "cara:258", 
-                            "blocker": "Need feedback from data provider"
-                        }, 
+                            "task_id": "cara:258",
+                            "progress": 0,
+                            "blocker": "Need feedback from data provider",
+                            "today": false,
+                            "date": ""
+                        },
                         {
-                            "date": "", 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "cara:257", 
-                            "blocker": "Need feedback from data provider"
-                        }, 
+                            "task_id": "cara:257",
+                            "progress": 0,
+                            "blocker": "Need feedback from data provider",
+                            "today": false,
+                            "date": ""
+                        },
                         {
-                            "date": "", 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "cara:251", 
-                            "blocker": "Figure out BAM transfer"
-                        }, 
+                            "task_id": "cara:251",
+                            "progress": 0,
+                            "blocker": "Figure out BAM transfer",
+                            "today": false,
+                            "date": ""
+                        },
                         {
-                            "date": 1485899019.601004, 
-                            "progress": "30", 
-                            "today": true, 
-                            "task_id": "joseph:271", 
-                            "blocker": ""
+                            "task_id": "joseph:271",
+                            "progress": "30",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1485899019.601004
                         }
-                    ], 
-                    "scrum_number": 6, 
-                    "scrum_active": false
-                }, 
+                    ]
+                },
                 {
+                    "scrum_number": 7,
+                    "scrum_active": false,
                     "scrum_task_list": [
                         {
-                            "date": "", 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "hugh:269", 
-                            "blocker": "Worked on Dr. Chuang's breast cancer project in the recent two days."
-                        }, 
+                            "task_id": "hugh:269",
+                            "progress": 0,
+                            "blocker": "Worked on Dr. Chuang's breast cancer project in the recent two days.",
+                            "today": false,
+                            "date": ""
+                        },
                         {
-                            "date": "", 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "cara:268", 
-                            "blocker": "Need feedback from Nathan on groovy scripts"
-                        }, 
+                            "task_id": "cara:268",
+                            "progress": 0,
+                            "blocker": "Need feedback from Nathan on groovy scripts",
+                            "today": false,
+                            "date": ""
+                        },
                         {
-                            "date": "", 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "cara:258", 
-                            "blocker": "Need feedback from data provider"
-                        }, 
+                            "task_id": "cara:258",
+                            "progress": 0,
+                            "blocker": "Need feedback from data provider",
+                            "today": false,
+                            "date": ""
+                        },
                         {
-                            "date": "", 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "cara:257", 
-                            "blocker": "Need feedback from data provider"
-                        }, 
+                            "task_id": "cara:257",
+                            "progress": 0,
+                            "blocker": "Need feedback from data provider",
+                            "today": false,
+                            "date": ""
+                        },
                         {
-                            "date": "", 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "cara:251", 
-                            "blocker": "Figure out BAM transfer"
-                        }, 
+                            "task_id": "cara:251",
+                            "progress": 0,
+                            "blocker": "Figure out BAM transfer",
+                            "today": false,
+                            "date": ""
+                        },
                         {
-                            "date": 1486045832.999839, 
-                            "progress": "90", 
-                            "today": false, 
-                            "task_id": "joseph:271", 
-                            "blocker": ""
+                            "task_id": "joseph:271",
+                            "progress": "90",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1486045832.999839
                         }
-                    ], 
-                    "scrum_number": 7, 
-                    "scrum_active": false
-                }, 
+                    ]
+                },
                 {
+                    "scrum_number": 8,
+                    "scrum_active": false,
                     "scrum_task_list": [
                         {
-                            "date": 1486130289.361066, 
-                            "progress": "90", 
-                            "today": true, 
-                            "task_id": "hugh:269", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "hugh:269",
+                            "progress": "90",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1486130289.361066
+                        },
                         {
-                            "date": 1486388818.046712, 
-                            "progress": "60", 
-                            "today": true, 
-                            "task_id": "cara:268", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:268",
+                            "progress": "60",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1486388818.046712
+                        },
                         {
-                            "date": 1486388818.046601, 
-                            "progress": "80", 
-                            "today": false, 
-                            "task_id": "cara:258", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:258",
+                            "progress": "80",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1486388818.046601
+                        },
                         {
-                            "date": 1486133945.333471, 
-                            "progress": "80", 
-                            "today": false, 
-                            "task_id": "cara:257", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:257",
+                            "progress": "80",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1486133945.333471
+                        },
                         {
-                            "date": 1486133945.33336, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "cara:251", 
-                            "blocker": "Figure out BAM transfer"
-                        }, 
+                            "task_id": "cara:251",
+                            "progress": "0",
+                            "blocker": "Figure out BAM transfer",
+                            "today": false,
+                            "date": 1486133945.33336
+                        },
                         {
-                            "date": 1486071503.145784, 
-                            "progress": "100", 
-                            "today": false, 
-                            "task_id": "joseph:271", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "joseph:271",
+                            "progress": "100",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1486071503.145784
+                        },
                         {
-                            "date": 1486389393.476334, 
-                            "progress": "80", 
-                            "today": false, 
-                            "task_id": "kaleb:227", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "kaleb:227",
+                            "progress": "80",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1486389393.476334
+                        },
                         {
-                            "date": 1486130289.360962, 
-                            "progress": "50", 
-                            "today": false, 
-                            "task_id": "hugh:244", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "hugh:244",
+                            "progress": "50",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1486130289.360962
+                        },
                         {
-                            "date": 1486130289.361051, 
-                            "progress": "0", 
-                            "today": true, 
-                            "task_id": "hugh:262", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "hugh:262",
+                            "progress": "0",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1486130289.361051
+                        },
                         {
-                            "date": 1486133704.652516, 
-                            "progress": "40", 
-                            "today": true, 
-                            "task_id": "joseph:245", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "joseph:245",
+                            "progress": "40",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1486133704.652516
+                        },
                         {
-                            "date": 1486388818.04675, 
-                            "progress": "100", 
-                            "today": false, 
-                            "task_id": "cara:250", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:250",
+                            "progress": "100",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1486388818.04675
+                        },
                         {
-                            "date": 1486389976.168654, 
-                            "progress": "100", 
-                            "today": false, 
-                            "task_id": "matt:243", 
-                            "blocker": ""
+                            "task_id": "matt:243",
+                            "progress": "100",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1486389976.168654
                         }
-                    ], 
-                    "scrum_number": 8, 
-                    "scrum_active": false
+                    ]
                 }
-            ], 
-            "sprint_number": 1
-        }, 
+            ]
+        },
         {
+            "sprint_number": 2,
+            "sprint_date": "02/06/2017",
+            "sprint_active": false,
             "sprint_task_list": [
                 {
-                    "date": 1486561412.737201, 
-                    "desc": "blast searches failing (celery?)", 
-                    "issue": 227, 
-                    "task_id": "kaleb:227", 
-                    "devel": "kaleb"
-                }, 
+                    "task_id": "kaleb:227",
+                    "issue": 227,
+                    "devel": "kaleb",
+                    "desc": "blast searches failing (celery?)",
+                    "date": 1486561412.737201
+                },
                 {
-                    "date": 1486444856.120853, 
-                    "desc": "MERGE prototype: Remove the codes about specific ID format assumption", 
-                    "issue": 262, 
-                    "task_id": "hugh:262", 
-                    "devel": "hugh"
-                }, 
+                    "task_id": "hugh:262",
+                    "issue": 262,
+                    "devel": "hugh",
+                    "desc": "MERGE prototype: Remove the codes about specific ID format assumption",
+                    "date": 1486444856.120853
+                },
                 {
-                    "date": 1486650034.470429, 
-                    "desc": "Issues for the MERGE phase of Diaphorina gff files", 
-                    "issue": 244, 
-                    "task_id": "hugh:244", 
-                    "devel": "hugh"
-                }, 
+                    "task_id": "hugh:244",
+                    "issue": 244,
+                    "devel": "hugh",
+                    "desc": "Issues for the MERGE phase of Diaphorina gff files",
+                    "date": 1486650034.470429
+                },
                 {
-                    "date": 1486739336.054495, 
-                    "desc": "Migrate users to Apollo2", 
-                    "issue": 261, 
-                    "task_id": "matt:261", 
-                    "devel": "matt"
-                }, 
+                    "task_id": "matt:261",
+                    "issue": 261,
+                    "devel": "matt",
+                    "desc": "Migrate users to Apollo2",
+                    "date": 1486739336.054495
+                },
                 {
-                    "date": 1486444958.925813, 
-                    "desc": "Migrate to Apollo 2", 
-                    "issue": 259, 
-                    "task_id": "matt:259", 
-                    "devel": "matt"
-                }, 
+                    "task_id": "matt:259",
+                    "issue": 259,
+                    "devel": "matt",
+                    "desc": "Migrate to Apollo 2",
+                    "date": 1486444958.925813
+                },
                 {
-                    "date": 1486990936.087204, 
-                    "desc": "Document Dashboard's Gridstack", 
-                    "issue": 245, 
-                    "task_id": "joseph:245", 
-                    "devel": "joseph"
-                }, 
+                    "task_id": "joseph:245",
+                    "issue": 245,
+                    "devel": "joseph",
+                    "desc": "Document Dashboard's Gridstack",
+                    "date": 1486990936.087204
+                },
                 {
-                    "date": 1486445198.181252, 
-                    "desc": "Test migrating annotations in UcA from Apollo1 to Apollo2", 
-                    "issue": 268, 
-                    "task_id": "cara:268", 
-                    "devel": "cara"
-                }, 
+                    "task_id": "cara:268",
+                    "issue": 268,
+                    "devel": "cara",
+                    "desc": "Test migrating annotations in UcA from Apollo1 to Apollo2",
+                    "date": 1486445198.181252
+                },
                 {
-                    "date": 1486736834.630775, 
-                    "desc": "Add Homvit records to ADC", 
-                    "issue": 258, 
-                    "task_id": "cara:258", 
-                    "devel": "cara"
-                }, 
+                    "task_id": "cara:258",
+                    "issue": 258,
+                    "devel": "cara",
+                    "desc": "Add Homvit records to ADC",
+                    "date": 1486736834.630775
+                },
                 {
-                    "date": 1486736834.630836, 
-                    "desc": "Add diaphorina records to ADC", 
-                    "issue": 257, 
-                    "task_id": "cara:257", 
-                    "devel": "cara"
-                }, 
+                    "task_id": "cara:257",
+                    "issue": 257,
+                    "devel": "cara",
+                    "desc": "Add diaphorina records to ADC",
+                    "date": 1486736834.630836
+                },
                 {
-                    "date": 1485529200.075122, 
-                    "desc": "Review custom modules for Tripal API", 
-                    "issue": 255, 
-                    "task_id": "andy:255", 
-                    "devel": "andy"
-                }, 
+                    "task_id": "andy:255",
+                    "issue": 255,
+                    "devel": "andy",
+                    "desc": "Review custom modules for Tripal API",
+                    "date": 1485529200.075122
+                },
                 {
-                    "date": 1486736834.630805, 
-                    "desc": "Coordinate transfer of i5k pilot bam files to NCBI coordinates", 
-                    "issue": 251, 
-                    "task_id": "cara:251", 
-                    "devel": "cara"
-                }, 
+                    "task_id": "cara:251",
+                    "issue": 251,
+                    "devel": "cara",
+                    "desc": "Coordinate transfer of i5k pilot bam files to NCBI coordinates",
+                    "date": 1486736834.630805
+                },
                 {
-                    "date": 1486444934.085796, 
-                    "desc": "review RNA-Seq mapping documentation", 
-                    "issue": 241, 
-                    "task_id": "matt:241", 
-                    "devel": "matt"
-                }, 
+                    "task_id": "matt:241",
+                    "issue": 241,
+                    "devel": "matt",
+                    "desc": "review RNA-Seq mapping documentation",
+                    "date": 1486444934.085796
+                },
                 {
-                    "date": 1486445198.181304, 
-                    "desc": "Book module: add long-term data management policy", 
-                    "issue": 118, 
-                    "task_id": "cara:118", 
-                    "devel": "cara"
-                }, 
+                    "task_id": "cara:118",
+                    "issue": 118,
+                    "devel": "cara",
+                    "desc": "Book module: add long-term data management policy",
+                    "date": 1486445198.181304
+                },
                 {
-                    "date": 1486994668.580492, 
-                    "desc": "Quality control of new Maker file", 
-                    "issue": 273, 
-                    "task_id": "hugh:273", 
-                    "devel": "hugh"
+                    "task_id": "hugh:273",
+                    "issue": 273,
+                    "devel": "hugh",
+                    "desc": "Quality control of new Maker file",
+                    "date": 1486994668.580492
                 }
-            ], 
+            ],
             "dev_list": [
-                "matt", 
-                "kaleb", 
-                "hugh", 
-                "joseph", 
-                "andy", 
-                "cara"
-            ], 
-            "sprint_active": false, 
-            "sprint_date": "02/06/2017", 
+                "kaleb",
+                "matt",
+                "hugh",
+                "cara",
+                "joseph",
+                "andy"
+            ],
             "scrum_list": [
                 {
+                    "scrum_number": 0,
+                    "scrum_active": false,
                     "scrum_task_list": [
                         {
-                            "date": 1486388818.046601, 
-                            "progress": "80", 
-                            "today": false, 
-                            "task_id": "cara:258", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:258",
+                            "progress": "80",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1486388818.046601
+                        },
                         {
-                            "date": 1486445198.181224, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "cara:251", 
-                            "blocker": "Figure out BAM transfer"
-                        }, 
+                            "task_id": "cara:251",
+                            "progress": "0",
+                            "blocker": "Figure out BAM transfer",
+                            "today": false,
+                            "date": 1486445198.181224
+                        },
                         {
-                            "date": 1486445198.181252, 
-                            "progress": "60", 
-                            "today": false, 
-                            "task_id": "cara:268", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:268",
+                            "progress": "60",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1486445198.181252
+                        },
                         {
-                            "date": 1486445198.181278, 
-                            "progress": "80", 
-                            "today": false, 
-                            "task_id": "cara:257", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:257",
+                            "progress": "80",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1486445198.181278
+                        },
                         {
-                            "date": 1486445198.181224, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "cara:251", 
-                            "blocker": "Figure out BAM transfer"
-                        }, 
+                            "task_id": "cara:251",
+                            "progress": "0",
+                            "blocker": "Figure out BAM transfer",
+                            "today": false,
+                            "date": 1486445198.181224
+                        },
                         {
-                            "date": 1486444821.387633, 
-                            "progress": "80", 
-                            "today": false, 
-                            "task_id": "kaleb:227", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "kaleb:227",
+                            "progress": "80",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1486444821.387633
+                        },
                         {
-                            "date": 1486444887.949906, 
-                            "progress": "50", 
-                            "today": false, 
-                            "task_id": "hugh:244", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "hugh:244",
+                            "progress": "50",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1486444887.949906
+                        },
                         {
-                            "date": 1486444856.120853, 
-                            "progress": "0", 
-                            "today": true, 
-                            "task_id": "hugh:262", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "hugh:262",
+                            "progress": "0",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1486444856.120853
+                        },
                         {
-                            "date": 1486445427.024147, 
-                            "progress": "40", 
-                            "today": true, 
-                            "task_id": "joseph:245", 
-                            "blocker": ""
+                            "task_id": "joseph:245",
+                            "progress": "40",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1486445427.024147
                         }
-                    ], 
-                    "scrum_number": 0, 
-                    "scrum_active": false
-                }, 
+                    ]
+                },
                 {
+                    "scrum_number": 1,
+                    "scrum_active": false,
                     "scrum_task_list": [
                         {
-                            "date": 1486445198.181186, 
-                            "progress": "80", 
-                            "today": false, 
-                            "task_id": "cara:258", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:258",
+                            "progress": "80",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1486445198.181186
+                        },
                         {
-                            "date": 1486445198.181224, 
-                            "progress": "50", 
-                            "today": false, 
-                            "task_id": "cara:251", 
-                            "blocker": "Figure out BAM transfer"
-                        }, 
+                            "task_id": "cara:251",
+                            "progress": "50",
+                            "blocker": "Figure out BAM transfer",
+                            "today": false,
+                            "date": 1486445198.181224
+                        },
                         {
-                            "date": 1486445198.181252, 
-                            "progress": "60", 
-                            "today": false, 
-                            "task_id": "cara:268", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:268",
+                            "progress": "60",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1486445198.181252
+                        },
                         {
-                            "date": 1486445198.181278, 
-                            "progress": "80", 
-                            "today": false, 
-                            "task_id": "cara:257", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:257",
+                            "progress": "80",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1486445198.181278
+                        },
                         {
-                            "date": 1486445427.024147, 
-                            "progress": "50", 
-                            "today": true, 
-                            "task_id": "joseph:245", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "joseph:245",
+                            "progress": "50",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1486445427.024147
+                        },
                         {
-                            "date": 1486444821.387633, 
-                            "progress": "80", 
-                            "today": false, 
-                            "task_id": "kaleb:227", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "kaleb:227",
+                            "progress": "80",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1486444821.387633
+                        },
                         {
-                            "date": 1486444887.949906, 
-                            "progress": "50", 
-                            "today": false, 
-                            "task_id": "hugh:244", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "hugh:244",
+                            "progress": "50",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1486444887.949906
+                        },
                         {
-                            "date": 1486444856.120853, 
-                            "progress": "0", 
-                            "today": true, 
-                            "task_id": "hugh:262", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "hugh:262",
+                            "progress": "0",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1486444856.120853
+                        },
                         {
-                            "date": 1486444958.925813, 
-                            "progress": "30", 
-                            "today": false, 
-                            "task_id": "matt:259", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:259",
+                            "progress": "30",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1486444958.925813
+                        },
                         {
-                            "date": 1486478014.684956, 
-                            "progress": "80", 
-                            "today": false, 
-                            "task_id": "matt:261", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:261",
+                            "progress": "80",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1486478014.684956
+                        },
                         {
-                            "date": 1486444986.626487, 
-                            "progress": "10", 
-                            "today": false, 
-                            "task_id": "andy:255", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "andy:255",
+                            "progress": "10",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1486444986.626487
+                        },
                         {
-                            "date": 1486444934.085796, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "matt:241", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:241",
+                            "progress": "0",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1486444934.085796
+                        },
                         {
-                            "date": 1486445198.181304, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "cara:118", 
-                            "blocker": ""
+                            "task_id": "cara:118",
+                            "progress": "0",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1486445198.181304
                         }
-                    ], 
-                    "scrum_number": 1, 
-                    "scrum_active": false
-                }, 
+                    ]
+                },
                 {
+                    "scrum_number": 2,
+                    "scrum_active": false,
                     "scrum_task_list": [
                         {
-                            "date": "", 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "cara:251", 
-                            "blocker": "Figure out BAM transfer"
-                        }, 
+                            "task_id": "cara:251",
+                            "progress": 0,
+                            "blocker": "Figure out BAM transfer",
+                            "today": false,
+                            "date": ""
+                        },
                         {
-                            "date": 1486517599.751187, 
-                            "progress": "60", 
-                            "today": true, 
-                            "task_id": "joseph:245", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "joseph:245",
+                            "progress": "60",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1486517599.751187
+                        },
                         {
-                            "date": 1486561412.737201, 
-                            "progress": "90", 
-                            "today": false, 
-                            "task_id": "kaleb:227", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "kaleb:227",
+                            "progress": "90",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1486561412.737201
+                        },
                         {
-                            "date": 1486565795.990351, 
-                            "progress": "90", 
-                            "today": true, 
-                            "task_id": "hugh:244", 
-                            "blocker": "Six problematic cases were manually reviewed with Monica, and thus adaption of the code is needed."
+                            "task_id": "hugh:244",
+                            "progress": "90",
+                            "blocker": "Six problematic cases were manually reviewed with Monica, and thus adaption of the code is needed.",
+                            "today": true,
+                            "date": 1486565795.990351
                         }
-                    ], 
-                    "scrum_number": 2, 
-                    "scrum_active": false
-                }, 
+                    ]
+                },
                 {
+                    "scrum_number": 3,
+                    "scrum_active": false,
                     "scrum_task_list": [
                         {
-                            "date": 1486650034.470429, 
-                            "progress": "100", 
-                            "today": false, 
-                            "task_id": "hugh:244", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "hugh:244",
+                            "progress": "100",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1486650034.470429
+                        },
                         {
-                            "date": "", 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "cara:251", 
-                            "blocker": "Figure out BAM transfer"
-                        }, 
+                            "task_id": "cara:251",
+                            "progress": 0,
+                            "blocker": "Figure out BAM transfer",
+                            "today": false,
+                            "date": ""
+                        },
                         {
-                            "date": 1486650034.470447, 
-                            "progress": "10", 
-                            "today": true, 
-                            "task_id": "hugh:273", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "hugh:273",
+                            "progress": "10",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1486650034.470447
+                        },
                         {
-                            "date": 1486654790.604184, 
-                            "progress": "70", 
-                            "today": true, 
-                            "task_id": "joseph:245", 
-                            "blocker": ""
+                            "task_id": "joseph:245",
+                            "progress": "70",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1486654790.604184
                         }
-                    ], 
-                    "scrum_number": 3, 
-                    "scrum_active": false
-                }, 
+                    ]
+                },
                 {
+                    "scrum_number": 4,
+                    "scrum_active": false,
                     "scrum_task_list": [
                         {
-                            "date": 1486736834.630805, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "cara:251", 
-                            "blocker": "Figure out BAM transfer"
-                        }, 
+                            "task_id": "cara:251",
+                            "progress": "0",
+                            "blocker": "Figure out BAM transfer",
+                            "today": false,
+                            "date": 1486736834.630805
+                        },
                         {
-                            "date": 1486685360.57959, 
-                            "progress": "80", 
-                            "today": true, 
-                            "task_id": "joseph:245", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "joseph:245",
+                            "progress": "80",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1486685360.57959
+                        },
                         {
-                            "date": 1486736834.630775, 
-                            "progress": "100", 
-                            "today": false, 
-                            "task_id": "cara:258", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:258",
+                            "progress": "100",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1486736834.630775
+                        },
                         {
-                            "date": 1486736834.630836, 
-                            "progress": "100", 
-                            "today": false, 
-                            "task_id": "cara:257", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:257",
+                            "progress": "100",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1486736834.630836
+                        },
                         {
-                            "date": 1486739336.054495, 
-                            "progress": "80", 
-                            "today": true, 
-                            "task_id": "matt:261", 
-                            "blocker": ""
+                            "task_id": "matt:261",
+                            "progress": "80",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1486739336.054495
                         }
-                    ], 
-                    "scrum_number": 4, 
-                    "scrum_active": false
-                }, 
+                    ]
+                },
                 {
+                    "scrum_number": 5,
+                    "scrum_active": false,
                     "scrum_task_list": [
                         {
-                            "date": "", 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "cara:251", 
-                            "blocker": "Figure out BAM transfer"
-                        }, 
+                            "task_id": "cara:251",
+                            "progress": 0,
+                            "blocker": "Figure out BAM transfer",
+                            "today": false,
+                            "date": ""
+                        },
                         {
-                            "date": 1486990936.087204, 
-                            "progress": "90", 
-                            "today": true, 
-                            "task_id": "joseph:245", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "joseph:245",
+                            "progress": "90",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1486990936.087204
+                        },
                         {
-                            "date": 1486994668.580492, 
-                            "progress": "50", 
-                            "today": true, 
-                            "task_id": "hugh:273", 
-                            "blocker": ""
+                            "task_id": "hugh:273",
+                            "progress": "50",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1486994668.580492
                         }
-                    ], 
-                    "scrum_number": 5, 
-                    "scrum_active": false
+                    ]
                 }
-            ], 
-            "sprint_number": 2
-        }, 
+            ]
+        },
         {
+            "sprint_number": 3,
+            "sprint_date": "02/13/2017",
+            "sprint_active": false,
             "sprint_task_list": [
                 {
-                    "date": 1486561412.737201, 
-                    "desc": "blast searches failing (celery?)", 
-                    "issue": 227, 
-                    "task_id": "kaleb:227", 
-                    "devel": "kaleb"
-                }, 
+                    "task_id": "kaleb:227",
+                    "issue": 227,
+                    "devel": "kaleb",
+                    "desc": "blast searches failing (celery?)",
+                    "date": 1486561412.737201
+                },
                 {
-                    "date": 1486444856.120853, 
-                    "desc": "MERGE prototype: Remove the codes about specific ID format assumption", 
-                    "issue": 262, 
-                    "task_id": "hugh:262", 
-                    "devel": "hugh"
-                }, 
+                    "task_id": "hugh:262",
+                    "issue": 262,
+                    "devel": "hugh",
+                    "desc": "MERGE prototype: Remove the codes about specific ID format assumption",
+                    "date": 1486444856.120853
+                },
                 {
-                    "date": 1486739336.054495, 
-                    "desc": "Migrate users to Apollo2", 
-                    "issue": 261, 
-                    "task_id": "matt:261", 
-                    "devel": "matt"
-                }, 
+                    "task_id": "matt:261",
+                    "issue": 261,
+                    "devel": "matt",
+                    "desc": "Migrate users to Apollo2",
+                    "date": 1486739336.054495
+                },
                 {
-                    "date": 1486444958.925813, 
-                    "desc": "Migrate to Apollo 2", 
-                    "issue": 259, 
-                    "task_id": "matt:259", 
-                    "devel": "matt"
-                }, 
+                    "task_id": "matt:259",
+                    "issue": 259,
+                    "devel": "matt",
+                    "desc": "Migrate to Apollo 2",
+                    "date": 1486444958.925813
+                },
                 {
-                    "date": 1486445198.181252, 
-                    "desc": "Test migrating annotations in UcA from Apollo1 to Apollo2", 
-                    "issue": 268, 
-                    "task_id": "cara:268", 
-                    "devel": "cara"
-                }, 
+                    "task_id": "cara:268",
+                    "issue": 268,
+                    "devel": "cara",
+                    "desc": "Test migrating annotations in UcA from Apollo1 to Apollo2",
+                    "date": 1486445198.181252
+                },
                 {
-                    "date": 1485529200.075122, 
-                    "desc": "Review custom modules for Tripal API", 
-                    "issue": 255, 
-                    "task_id": "andy:255", 
-                    "devel": "andy"
-                }, 
+                    "task_id": "andy:255",
+                    "issue": 255,
+                    "devel": "andy",
+                    "desc": "Review custom modules for Tripal API",
+                    "date": 1485529200.075122
+                },
                 {
-                    "date": 1486736834.630805, 
-                    "desc": "Coordinate transfer of i5k pilot bam files to NCBI coordinates", 
-                    "issue": 251, 
-                    "task_id": "cara:251", 
-                    "devel": "cara"
-                }, 
+                    "task_id": "cara:251",
+                    "issue": 251,
+                    "devel": "cara",
+                    "desc": "Coordinate transfer of i5k pilot bam files to NCBI coordinates",
+                    "date": 1486736834.630805
+                },
                 {
-                    "date": 1486444934.085796, 
-                    "desc": "review RNA-Seq mapping documentation", 
-                    "issue": 241, 
-                    "task_id": "matt:241", 
-                    "devel": "matt"
-                }, 
+                    "task_id": "matt:241",
+                    "issue": 241,
+                    "devel": "matt",
+                    "desc": "review RNA-Seq mapping documentation",
+                    "date": 1486444934.085796
+                },
                 {
-                    "date": 1486445198.181304, 
-                    "desc": "Book module: add long-term data management policy", 
-                    "issue": 118, 
-                    "task_id": "cara:118", 
-                    "devel": "cara"
-                }, 
+                    "task_id": "cara:118",
+                    "issue": 118,
+                    "devel": "cara",
+                    "desc": "Book module: add long-term data management policy",
+                    "date": 1486445198.181304
+                },
                 {
-                    "date": 1486994668.580492, 
-                    "desc": "Quality control of new Maker file", 
-                    "issue": 273, 
-                    "task_id": "hugh:273", 
-                    "devel": "hugh"
-                }, 
+                    "task_id": "hugh:273",
+                    "issue": 273,
+                    "devel": "hugh",
+                    "desc": "Quality control of new Maker file",
+                    "date": 1486994668.580492
+                },
                 {
-                    "date": 1487005746.507471, 
-                    "desc": "improve styling of models in Apollo2", 
-                    "issue": 265, 
-                    "task_id": "matt:265", 
-                    "devel": "matt"
-                }, 
+                    "task_id": "matt:265",
+                    "issue": 265,
+                    "devel": "matt",
+                    "desc": "improve styling of models in Apollo2",
+                    "date": 1487005746.507471
+                },
                 {
-                    "date": 1487005803.96291, 
-                    "desc": "Selenium test script for HMMER and Clustal", 
-                    "issue": 275, 
-                    "task_id": "kaleb:275", 
-                    "devel": "kaleb"
-                }, 
+                    "task_id": "kaleb:275",
+                    "issue": 275,
+                    "devel": "kaleb",
+                    "desc": "Selenium test script for HMMER and Clustal",
+                    "date": 1487005803.96291
+                },
                 {
-                    "date": 1487005806.264403, 
-                    "desc": "Add medfly OGS", 
-                    "issue": 276, 
-                    "task_id": "cara:276", 
-                    "devel": "cara"
-                }, 
+                    "task_id": "cara:276",
+                    "issue": 276,
+                    "devel": "cara",
+                    "desc": "Add medfly OGS",
+                    "date": 1487005806.264403
+                },
                 {
-                    "date": 1487005808.730456, 
-                    "desc": "Issues for the MERGE phase of Diaphorina gff files", 
-                    "issue": 244, 
-                    "task_id": "cara:244", 
-                    "devel": "cara"
-                }, 
+                    "task_id": "cara:244",
+                    "issue": 244,
+                    "devel": "cara",
+                    "desc": "Issues for the MERGE phase of Diaphorina gff files",
+                    "date": 1487005808.730456
+                },
                 {
-                    "date": 1487009515.245315, 
-                    "desc": "Style issues for the main site", 
-                    "issue": 165, 
-                    "task_id": "andy:165", 
-                    "devel": "andy"
-                }, 
+                    "task_id": "andy:165",
+                    "issue": 165,
+                    "devel": "andy",
+                    "desc": "Style issues for the main site",
+                    "date": 1487009515.245315
+                },
                 {
-                    "date": 1487009515.57481, 
-                    "desc": "Add file upload capability", 
-                    "issue": 78, 
-                    "task_id": "andy:78", 
-                    "devel": "andy"
-                }, 
+                    "task_id": "andy:78",
+                    "issue": 78,
+                    "devel": "andy",
+                    "desc": "Add file upload capability",
+                    "date": 1487009515.57481
+                },
                 {
-                    "date": 1487025227.8438, 
-                    "desc": "Dashboard Widget Demo", 
-                    "issue": 277, 
-                    "task_id": "joseph:277", 
-                    "devel": "joseph"
-                }, 
+                    "task_id": "joseph:277",
+                    "issue": 277,
+                    "devel": "joseph",
+                    "desc": "Dashboard Widget Demo",
+                    "date": 1487025227.8438
+                },
                 {
-                    "date": 1487121996.106327, 
-                    "desc": "Document Dashboard's Gridstack", 
-                    "issue": 245, 
-                    "task_id": "joseph:245", 
-                    "devel": "joseph"
+                    "task_id": "joseph:245",
+                    "issue": 245,
+                    "devel": "joseph",
+                    "desc": "Document Dashboard's Gridstack",
+                    "date": 1487121996.106327
                 }
-            ], 
+            ],
             "dev_list": [
-                "matt", 
-                "kaleb", 
-                "hugh", 
-                "joseph", 
-                "andy", 
-                "cara"
-            ], 
-            "sprint_active": false, 
-            "sprint_date": "02/13/2017", 
+                "kaleb",
+                "matt",
+                "hugh",
+                "cara",
+                "joseph",
+                "andy"
+            ],
             "scrum_list": [
                 {
+                    "scrum_number": 0,
+                    "scrum_active": false,
                     "scrum_task_list": [
                         {
-                            "date": 1487005260.713984, 
-                            "progress": 90, 
-                            "today": false, 
-                            "task_id": "kaleb:227", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "kaleb:227",
+                            "progress": 90,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487005260.713984
+                        },
                         {
-                            "date": 1487005260.713993, 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "hugh:262", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "hugh:262",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487005260.713993
+                        },
                         {
-                            "date": 1487005260.714009, 
-                            "progress": 80, 
-                            "today": false, 
-                            "task_id": "matt:261", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:261",
+                            "progress": 80,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487005260.714009
+                        },
                         {
-                            "date": 1487005260.714017, 
-                            "progress": 30, 
-                            "today": false, 
-                            "task_id": "matt:259", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:259",
+                            "progress": 30,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487005260.714017
+                        },
                         {
-                            "date": 1487005260.714026, 
-                            "progress": 90, 
-                            "today": false, 
-                            "task_id": "joseph:245", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "joseph:245",
+                            "progress": 90,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487005260.714026
+                        },
                         {
-                            "date": 1487005260.714034, 
-                            "progress": 60, 
-                            "today": false, 
-                            "task_id": "cara:268", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:268",
+                            "progress": 60,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487005260.714034
+                        },
                         {
-                            "date": 1487005260.714054, 
-                            "progress": 10, 
-                            "today": false, 
-                            "task_id": "andy:255", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "andy:255",
+                            "progress": 10,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487005260.714054
+                        },
                         {
-                            "date": 1487005260.714064, 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "cara:251", 
-                            "blocker": "Figure out BAM transfer"
-                        }, 
+                            "task_id": "cara:251",
+                            "progress": 0,
+                            "blocker": "Figure out BAM transfer",
+                            "today": false,
+                            "date": 1487005260.714064
+                        },
                         {
-                            "date": 1487005260.714071, 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "matt:241", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:241",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487005260.714071
+                        },
                         {
-                            "date": 1487005260.714079, 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "cara:118", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:118",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487005260.714079
+                        },
                         {
-                            "date": 1487005260.714087, 
-                            "progress": 50, 
-                            "today": false, 
-                            "task_id": "hugh:273", 
-                            "blocker": ""
+                            "task_id": "hugh:273",
+                            "progress": 50,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487005260.714087
                         }
-                    ], 
-                    "scrum_number": 0, 
-                    "scrum_active": false
-                }, 
+                    ]
+                },
                 {
+                    "scrum_number": 1,
+                    "scrum_active": false,
                     "scrum_task_list": [
                         {
-                            "date": 1487107907.46891, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "cara:251", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:251",
+                            "progress": "0",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487107907.46891
+                        },
                         {
-                            "date": 1487107907.468744, 
-                            "progress": "60", 
-                            "today": false, 
-                            "task_id": "cara:268", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:268",
+                            "progress": "60",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487107907.468744
+                        },
                         {
-                            "date": 1487107907.468953, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "cara:118", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:118",
+                            "progress": "0",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487107907.468953
+                        },
                         {
-                            "date": 1487107891.165625, 
-                            "progress": "90", 
-                            "today": true, 
-                            "task_id": "joseph:245", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "joseph:245",
+                            "progress": "90",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1487107891.165625
+                        },
                         {
-                            "date": 1487080240.330955, 
-                            "progress": "90", 
-                            "today": false, 
-                            "task_id": "hugh:273", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "hugh:273",
+                            "progress": "90",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487080240.330955
+                        },
                         {
-                            "date": 1487080240.331007, 
-                            "progress": "10", 
-                            "today": true, 
-                            "task_id": "hugh:262", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "hugh:262",
+                            "progress": "10",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1487080240.331007
+                        },
                         {
-                            "date": 1487082695.530877, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "kaleb:275", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "kaleb:275",
+                            "progress": "0",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487082695.530877
+                        },
                         {
-                            "date": 1487082695.530922, 
-                            "progress": "100", 
-                            "today": true, 
-                            "task_id": "kaleb:227", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "kaleb:227",
+                            "progress": "100",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1487082695.530922
+                        },
                         {
-                            "date": 1487107891.165554, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "joseph:277", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "joseph:277",
+                            "progress": "0",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487107891.165554
+                        },
                         {
-                            "date": 1487107907.468815, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "cara:244", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:244",
+                            "progress": "0",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487107907.468815
+                        },
                         {
-                            "date": 1487107907.468863, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "cara:276", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:276",
+                            "progress": "0",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487107907.468863
+                        },
                         {
-                            "date": 1487107926.976195, 
-                            "progress": "30", 
-                            "today": false, 
-                            "task_id": "matt:259", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:259",
+                            "progress": "30",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487107926.976195
+                        },
                         {
-                            "date": 1487107926.97627, 
-                            "progress": "80", 
-                            "today": false, 
-                            "task_id": "matt:261", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:261",
+                            "progress": "80",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487107926.97627
+                        },
                         {
-                            "date": 1487107926.97632, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "matt:265", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:265",
+                            "progress": "0",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487107926.97632
+                        },
                         {
-                            "date": 1487107926.976368, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "matt:241", 
-                            "blocker": ""
+                            "task_id": "matt:241",
+                            "progress": "0",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487107926.976368
                         }
-                    ], 
-                    "scrum_number": 1, 
-                    "scrum_active": false
+                    ]
                 }
-            ], 
-            "sprint_number": 3
-        }, 
+            ]
+        },
         {
+            "sprint_number": 4,
+            "sprint_date": 1487126458,
+            "sprint_active": false,
             "sprint_task_list": [
                 {
-                    "date": 1486444856.120853, 
-                    "desc": "MERGE prototype: Remove the codes about specific ID format assumption", 
-                    "issue": 262, 
-                    "task_id": "hugh:262", 
-                    "devel": "hugh"
-                }, 
+                    "task_id": "hugh:262",
+                    "issue": 262,
+                    "devel": "hugh",
+                    "desc": "MERGE prototype: Remove the codes about specific ID format assumption",
+                    "date": 1486444856.120853
+                },
                 {
-                    "date": 1486739336.054495, 
-                    "desc": "Migrate users to Apollo2", 
-                    "issue": 261, 
-                    "task_id": "matt:261", 
-                    "devel": "matt"
-                }, 
+                    "task_id": "matt:261",
+                    "issue": 261,
+                    "devel": "matt",
+                    "desc": "Migrate users to Apollo2",
+                    "date": 1486739336.054495
+                },
                 {
-                    "date": 1486444958.925813, 
-                    "desc": "Migrate to Apollo 2", 
-                    "issue": 259, 
-                    "task_id": "matt:259", 
-                    "devel": "matt"
-                }, 
+                    "task_id": "matt:259",
+                    "issue": 259,
+                    "devel": "matt",
+                    "desc": "Migrate to Apollo 2",
+                    "date": 1486444958.925813
+                },
                 {
-                    "date": 1486445198.181252, 
-                    "desc": "Test migrating annotations in UcA from Apollo1 to Apollo2", 
-                    "issue": 268, 
-                    "task_id": "cara:268", 
-                    "devel": "cara"
-                }, 
+                    "task_id": "cara:268",
+                    "issue": 268,
+                    "devel": "cara",
+                    "desc": "Test migrating annotations in UcA from Apollo1 to Apollo2",
+                    "date": 1486445198.181252
+                },
                 {
-                    "date": 1485529200.075122, 
-                    "desc": "Review custom modules for Tripal API", 
-                    "issue": 255, 
-                    "task_id": "andy:255", 
-                    "devel": "andy"
-                }, 
+                    "task_id": "andy:255",
+                    "issue": 255,
+                    "devel": "andy",
+                    "desc": "Review custom modules for Tripal API",
+                    "date": 1485529200.075122
+                },
                 {
-                    "date": 1486736834.630805, 
-                    "desc": "Coordinate transfer of i5k pilot bam files to NCBI coordinates", 
-                    "issue": 251, 
-                    "task_id": "cara:251", 
-                    "devel": "cara"
-                }, 
+                    "task_id": "cara:251",
+                    "issue": 251,
+                    "devel": "cara",
+                    "desc": "Coordinate transfer of i5k pilot bam files to NCBI coordinates",
+                    "date": 1486736834.630805
+                },
                 {
-                    "date": 1486444934.085796, 
-                    "desc": "review RNA-Seq mapping documentation", 
-                    "issue": 241, 
-                    "task_id": "matt:241", 
-                    "devel": "matt"
-                }, 
+                    "task_id": "matt:241",
+                    "issue": 241,
+                    "devel": "matt",
+                    "desc": "review RNA-Seq mapping documentation",
+                    "date": 1486444934.085796
+                },
                 {
-                    "date": 1486445198.181304, 
-                    "desc": "Book module: add long-term data management policy", 
-                    "issue": 118, 
-                    "task_id": "cara:118", 
-                    "devel": "cara"
-                }, 
+                    "task_id": "cara:118",
+                    "issue": 118,
+                    "devel": "cara",
+                    "desc": "Book module: add long-term data management policy",
+                    "date": 1486445198.181304
+                },
                 {
-                    "date": 1486994668.580492, 
-                    "desc": "Quality control of new Maker file", 
-                    "issue": 273, 
-                    "task_id": "hugh:273", 
-                    "devel": "hugh"
-                }, 
+                    "task_id": "hugh:273",
+                    "issue": 273,
+                    "devel": "hugh",
+                    "desc": "Quality control of new Maker file",
+                    "date": 1486994668.580492
+                },
                 {
-                    "date": 1487005746.507471, 
-                    "desc": "improve styling of models in Apollo2", 
-                    "issue": 265, 
-                    "task_id": "matt:265", 
-                    "devel": "matt"
-                }, 
+                    "task_id": "matt:265",
+                    "issue": 265,
+                    "devel": "matt",
+                    "desc": "improve styling of models in Apollo2",
+                    "date": 1487005746.507471
+                },
                 {
-                    "date": 1487005803.96291, 
-                    "desc": "Selenium test script for HMMER and Clustal", 
-                    "issue": 275, 
-                    "task_id": "kaleb:275", 
-                    "devel": "kaleb"
-                }, 
+                    "task_id": "kaleb:275",
+                    "issue": 275,
+                    "devel": "kaleb",
+                    "desc": "Selenium test script for HMMER and Clustal",
+                    "date": 1487005803.96291
+                },
                 {
-                    "date": 1487005806.264403, 
-                    "desc": "Add medfly OGS", 
-                    "issue": 276, 
-                    "task_id": "cara:276", 
-                    "devel": "cara"
-                }, 
+                    "task_id": "cara:276",
+                    "issue": 276,
+                    "devel": "cara",
+                    "desc": "Add medfly OGS",
+                    "date": 1487005806.264403
+                },
                 {
-                    "date": 1487005808.730456, 
-                    "desc": "Issues for the MERGE phase of Diaphorina gff files", 
-                    "issue": 244, 
-                    "task_id": "cara:244", 
-                    "devel": "cara"
-                }, 
+                    "task_id": "cara:244",
+                    "issue": 244,
+                    "devel": "cara",
+                    "desc": "Issues for the MERGE phase of Diaphorina gff files",
+                    "date": 1487005808.730456
+                },
                 {
-                    "date": 1487009515.245315, 
-                    "desc": "Style issues for the main site", 
-                    "issue": 165, 
-                    "task_id": "andy:165", 
-                    "devel": "andy"
-                }, 
+                    "task_id": "andy:165",
+                    "issue": 165,
+                    "devel": "andy",
+                    "desc": "Style issues for the main site",
+                    "date": 1487009515.245315
+                },
                 {
-                    "date": 1487009515.57481, 
-                    "desc": "Add file upload capability", 
-                    "issue": 78, 
-                    "task_id": "andy:78", 
-                    "devel": "andy"
-                }, 
+                    "task_id": "andy:78",
+                    "issue": 78,
+                    "devel": "andy",
+                    "desc": "Add file upload capability",
+                    "date": 1487009515.57481
+                },
                 {
-                    "date": 1487025227.8438, 
-                    "desc": "Dashboard Widget Demo", 
-                    "issue": 277, 
-                    "task_id": "joseph:277", 
-                    "devel": "joseph"
-                }, 
+                    "task_id": "joseph:277",
+                    "issue": 277,
+                    "devel": "joseph",
+                    "desc": "Dashboard Widget Demo",
+                    "date": 1487025227.8438
+                },
                 {
-                    "date": 1487168298.444033, 
-                    "desc": "gff-QC.py: Discussion on Missing ID issue", 
-                    "issue": 233, 
-                    "task_id": "hugh:233", 
-                    "devel": "hugh"
-                }, 
+                    "task_id": "hugh:233",
+                    "issue": 233,
+                    "devel": "hugh",
+                    "desc": "gff-QC.py: Discussion on Missing ID issue",
+                    "date": 1487168298.444033
+                },
                 {
-                    "date": 1487171333.996252, 
-                    "desc": "Document Dashboard's Gridstack", 
-                    "issue": 245, 
-                    "task_id": "joseph:245", 
-                    "devel": "joseph"
+                    "task_id": "joseph:245",
+                    "issue": 245,
+                    "devel": "joseph",
+                    "desc": "Document Dashboard's Gridstack",
+                    "date": 1487171333.996252
                 }
-            ], 
+            ],
             "dev_list": [
-                "matt", 
-                "kaleb", 
-                "hugh", 
-                "joseph", 
-                "andy", 
-                "cara"
-            ], 
-            "sprint_active": false, 
-            "sprint_date": 1487126458, 
+                "kaleb",
+                "matt",
+                "hugh",
+                "cara",
+                "joseph",
+                "andy"
+            ],
             "scrum_list": [
                 {
+                    "scrum_number": 0,
+                    "scrum_active": false,
                     "scrum_task_list": [
                         {
-                            "date": 1487126458.405924, 
-                            "progress": 10, 
-                            "today": false, 
-                            "task_id": "hugh:262", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "hugh:262",
+                            "progress": 10,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487126458.405924
+                        },
                         {
-                            "date": 1487126458.405935, 
-                            "progress": 80, 
-                            "today": false, 
-                            "task_id": "matt:261", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:261",
+                            "progress": 80,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487126458.405935
+                        },
                         {
-                            "date": 1487126458.405944, 
-                            "progress": 30, 
-                            "today": false, 
-                            "task_id": "matt:259", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:259",
+                            "progress": 30,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487126458.405944
+                        },
                         {
-                            "date": 1487126458.405954, 
-                            "progress": 60, 
-                            "today": false, 
-                            "task_id": "cara:268", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:268",
+                            "progress": 60,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487126458.405954
+                        },
                         {
-                            "date": 1487126458.405962, 
-                            "progress": 10, 
-                            "today": false, 
-                            "task_id": "andy:255", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "andy:255",
+                            "progress": 10,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487126458.405962
+                        },
                         {
-                            "date": 1487126458.405971, 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "cara:251", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:251",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487126458.405971
+                        },
                         {
-                            "date": 1487126458.40598, 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "matt:241", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:241",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487126458.40598
+                        },
                         {
-                            "date": 1487126458.405989, 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "cara:118", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:118",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487126458.405989
+                        },
                         {
-                            "date": 1487126458.405999, 
-                            "progress": 90, 
-                            "today": false, 
-                            "task_id": "hugh:273", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "hugh:273",
+                            "progress": 90,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487126458.405999
+                        },
                         {
-                            "date": 1487126458.406008, 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "matt:265", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:265",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487126458.406008
+                        },
                         {
-                            "date": 1487126458.406016, 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "kaleb:275", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "kaleb:275",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487126458.406016
+                        },
                         {
-                            "date": 1487126458.406025, 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "cara:276", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:276",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487126458.406025
+                        },
                         {
-                            "date": 1487126458.406033, 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "cara:244", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:244",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487126458.406033
+                        },
                         {
-                            "date": 1487126458.406041, 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "andy:165", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "andy:165",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487126458.406041
+                        },
                         {
-                            "date": 1487126458.406048, 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "andy:78", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "andy:78",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487126458.406048
+                        },
                         {
-                            "date": 1487126458.406057, 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "joseph:277", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "joseph:277",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487126458.406057
+                        },
                         {
-                            "date": 1487126458.406066, 
-                            "progress": 90, 
-                            "today": false, 
-                            "task_id": "joseph:245", 
-                            "blocker": ""
+                            "task_id": "joseph:245",
+                            "progress": 90,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1487126458.406066
                         }
-                    ], 
-                    "scrum_number": 0, 
-                    "scrum_active": false
-                }, 
+                    ]
+                },
                 {
+                    "scrum_number": 1,
+                    "scrum_active": false,
                     "scrum_task_list": [
                         {
-                            "date": 1487168238.983764, 
-                            "progress": "60", 
-                            "today": false, 
-                            "task_id": "cara:268", 
-                            "blocker": "111111"
-                        }, 
+                            "task_id": "cara:268",
+                            "progress": "60",
+                            "blocker": "111111",
+                            "today": false,
+                            "date": 1487168238.983764
+                        },
                         {
-                            "date": 1487168238.983785, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "cara:244", 
-                            "blocker": "555555555"
-                        }, 
+                            "task_id": "cara:244",
+                            "progress": "0",
+                            "blocker": "555555555",
+                            "today": false,
+                            "date": 1487168238.983785
+                        },
                         {
-                            "date": 1487168238.983793, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "cara:276", 
-                            "blocker": "444444444"
-                        }, 
+                            "task_id": "cara:276",
+                            "progress": "0",
+                            "blocker": "444444444",
+                            "today": false,
+                            "date": 1487168238.983793
+                        },
                         {
-                            "date": 1487168238.983801, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "cara:251", 
-                            "blocker": "22222222"
-                        }, 
+                            "task_id": "cara:251",
+                            "progress": "0",
+                            "blocker": "22222222",
+                            "today": false,
+                            "date": 1487168238.983801
+                        },
                         {
-                            "date": 1487168238.983808, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "cara:118", 
-                            "blocker": "333333333"
-                        }, 
+                            "task_id": "cara:118",
+                            "progress": "0",
+                            "blocker": "333333333",
+                            "today": false,
+                            "date": 1487168238.983808
+                        },
                         {
-                            "date": 1488213245.867971, 
-                            "progress": "30", 
-                            "today": true, 
-                            "task_id": "matt:259", 
-                            "blocker": "bbbbbbb"
-                        }, 
+                            "task_id": "matt:259",
+                            "progress": "30",
+                            "blocker": "bbbbbbb",
+                            "today": true,
+                            "date": 1488213245.867971
+                        },
                         {
-                            "date": 1488213245.868011, 
-                            "progress": "80", 
-                            "today": false, 
-                            "task_id": "matt:261", 
-                            "blocker": "aaaaaa"
-                        }, 
+                            "task_id": "matt:261",
+                            "progress": "80",
+                            "blocker": "aaaaaa",
+                            "today": false,
+                            "date": 1488213245.868011
+                        },
                         {
-                            "date": 1488213245.868028, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "matt:265", 
-                            "blocker": "ddddddd"
-                        }, 
+                            "task_id": "matt:265",
+                            "progress": "0",
+                            "blocker": "ddddddd",
+                            "today": false,
+                            "date": 1488213245.868028
+                        },
                         {
-                            "date": 1488213245.868109, 
-                            "progress": "0", 
-                            "today": true, 
-                            "task_id": "matt:241", 
-                            "blocker": "ccccccc"
-                        }, 
+                            "task_id": "matt:241",
+                            "progress": "0",
+                            "blocker": "ccccccc",
+                            "today": true,
+                            "date": 1488213245.868109
+                        },
                         {
-                            "date": 1488213218.029701, 
-                            "progress": "0", 
-                            "today": true, 
-                            "task_id": "joseph:277", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "joseph:277",
+                            "progress": "0",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1488213218.029701
+                        },
                         {
-                            "date": 1488213218.029728, 
-                            "progress": "90", 
-                            "today": true, 
-                            "task_id": "joseph:245", 
-                            "blocker": ""
+                            "task_id": "joseph:245",
+                            "progress": "90",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1488213218.029728
                         }
-                    ], 
-                    "scrum_number": 1, 
-                    "scrum_active": false
-                }, 
+                    ]
+                },
                 {
+                    "scrum_number": 2,
+                    "scrum_active": false,
                     "scrum_task_list": [
                         {
-                            "date": 1488213319.93023, 
-                            "progress": "80", 
-                            "today": false, 
-                            "task_id": "matt:261", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:261",
+                            "progress": "80",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1488213319.93023
+                        },
                         {
-                            "date": 1488213319.930204, 
-                            "progress": "30", 
-                            "today": true, 
-                            "task_id": "matt:259", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:259",
+                            "progress": "30",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1488213319.930204
+                        },
                         {
-                            "date": 1488213342.499322, 
-                            "progress": "60", 
-                            "today": false, 
-                            "task_id": "cara:268", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:268",
+                            "progress": "60",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1488213342.499322
+                        },
                         {
-                            "date": 1488213342.499417, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "cara:251", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:251",
+                            "progress": "0",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1488213342.499417
+                        },
                         {
-                            "date": 1488213319.930252, 
-                            "progress": "0", 
-                            "today": true, 
-                            "task_id": "matt:241", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:241",
+                            "progress": "0",
+                            "blocker": "",
+                            "today": true,
+                            "date": 1488213319.930252
+                        },
                         {
-                            "date": 1488213342.499438, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "cara:118", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:118",
+                            "progress": "0",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1488213342.499438
+                        },
                         {
-                            "date": 1488213319.930241, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "matt:265", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:265",
+                            "progress": "0",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1488213319.930241
+                        },
                         {
-                            "date": 1488213342.499395, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "cara:276", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:276",
+                            "progress": "0",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1488213342.499395
+                        },
                         {
-                            "date": 1488213342.49937, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "cara:244", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:244",
+                            "progress": "0",
+                            "blocker": "",
+                            "today": false,
+                            "date": 1488213342.49937
+                        },
                         {
-                            "date": 1488213270.69849, 
-                            "progress": 0, 
-                            "today": true, 
-                            "task_id": "joseph:277", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "joseph:277",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": true,
+                            "date": 1488213270.69849
+                        },
                         {
-                            "date": 1488213270.698498, 
-                            "progress": 0, 
-                            "today": true, 
-                            "task_id": "joseph:245", 
-                            "blocker": ""
+                            "task_id": "joseph:245",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": true,
+                            "date": 1488213270.698498
                         }
-                    ], 
-                    "scrum_number": 2, 
-                    "scrum_active": false
-                }, 
+                    ]
+                },
                 {
+                    "scrum_number": 3,
+                    "scrum_active": false,
                     "scrum_task_list": [
                         {
-                            "date": 1488213393.122539, 
-                            "progress": 0, 
-                            "today": true, 
-                            "task_id": "matt:259", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:259",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": true,
+                            "date": 1488213393.122539
+                        },
                         {
-                            "date": 1488213393.122566, 
-                            "progress": 0, 
-                            "today": true, 
-                            "task_id": "matt:241", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:241",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": true,
+                            "date": 1488213393.122566
+                        },
                         {
-                            "date": 1488213393.122608, 
-                            "progress": 0, 
-                            "today": true, 
-                            "task_id": "joseph:277", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "joseph:277",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": true,
+                            "date": 1488213393.122608
+                        },
                         {
-                            "date": 1488213393.122618, 
-                            "progress": 0, 
-                            "today": true, 
-                            "task_id": "joseph:245", 
-                            "blocker": ""
+                            "task_id": "joseph:245",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": true,
+                            "date": 1488213393.122618
                         }
-                    ], 
-                    "scrum_number": 3, 
-                    "scrum_active": false
+                    ]
                 }
-            ], 
-            "sprint_number": 4
-        }, 
+            ]
+        },
         {
+            "sprint_number": 5,
+            "sprint_date": 1488214573,
+            "sprint_active": true,
             "sprint_task_list": [
                 {
-                    "date": 1486444856.120853, 
-                    "desc": "MERGE prototype: Remove the codes about specific ID format assumption", 
-                    "issue": 262, 
-                    "task_id": "hugh:262", 
-                    "devel": "hugh"
-                }, 
+                    "task_id": "hugh:262",
+                    "issue": 262,
+                    "devel": "hugh",
+                    "desc": "MERGE prototype: Remove the codes about specific ID format assumption",
+                    "date": 1486444856.120853
+                },
                 {
-                    "date": 1486739336.054495, 
-                    "desc": "Migrate users to Apollo2", 
-                    "issue": 261, 
-                    "task_id": "matt:261", 
-                    "devel": "matt"
-                }, 
+                    "task_id": "matt:261",
+                    "issue": 261,
+                    "devel": "matt",
+                    "desc": "Migrate users to Apollo2",
+                    "date": 1486739336.054495
+                },
                 {
-                    "date": 1486444958.925813, 
-                    "desc": "Migrate to Apollo 2", 
-                    "issue": 259, 
-                    "task_id": "matt:259", 
-                    "devel": "matt"
-                }, 
+                    "task_id": "matt:259",
+                    "issue": 259,
+                    "devel": "matt",
+                    "desc": "Migrate to Apollo 2",
+                    "date": 1486444958.925813
+                },
                 {
-                    "date": 1486445198.181252, 
-                    "desc": "Test migrating annotations in UcA from Apollo1 to Apollo2", 
-                    "issue": 268, 
-                    "task_id": "cara:268", 
-                    "devel": "cara"
-                }, 
+                    "task_id": "cara:268",
+                    "issue": 268,
+                    "devel": "cara",
+                    "desc": "Test migrating annotations in UcA from Apollo1 to Apollo2",
+                    "date": 1486445198.181252
+                },
                 {
-                    "date": 1485529200.075122, 
-                    "desc": "Review custom modules for Tripal API", 
-                    "issue": 255, 
-                    "task_id": "andy:255", 
-                    "devel": "andy"
-                }, 
+                    "task_id": "andy:255",
+                    "issue": 255,
+                    "devel": "andy",
+                    "desc": "Review custom modules for Tripal API",
+                    "date": 1485529200.075122
+                },
                 {
-                    "date": 1486736834.630805, 
-                    "desc": "Coordinate transfer of i5k pilot bam files to NCBI coordinates", 
-                    "issue": 251, 
-                    "task_id": "cara:251", 
-                    "devel": "cara"
-                }, 
+                    "task_id": "cara:251",
+                    "issue": 251,
+                    "devel": "cara",
+                    "desc": "Coordinate transfer of i5k pilot bam files to NCBI coordinates",
+                    "date": 1486736834.630805
+                },
                 {
-                    "date": 1486444934.085796, 
-                    "desc": "review RNA-Seq mapping documentation", 
-                    "issue": 241, 
-                    "task_id": "matt:241", 
-                    "devel": "matt"
-                }, 
+                    "task_id": "matt:241",
+                    "issue": 241,
+                    "devel": "matt",
+                    "desc": "review RNA-Seq mapping documentation",
+                    "date": 1486444934.085796
+                },
                 {
-                    "date": 1486445198.181304, 
-                    "desc": "Book module: add long-term data management policy", 
-                    "issue": 118, 
-                    "task_id": "cara:118", 
-                    "devel": "cara"
-                }, 
+                    "task_id": "cara:118",
+                    "issue": 118,
+                    "devel": "cara",
+                    "desc": "Book module: add long-term data management policy",
+                    "date": 1486445198.181304
+                },
                 {
-                    "date": 1486994668.580492, 
-                    "desc": "Quality control of new Maker file", 
-                    "issue": 273, 
-                    "task_id": "hugh:273", 
-                    "devel": "hugh"
-                }, 
+                    "task_id": "hugh:273",
+                    "issue": 273,
+                    "devel": "hugh",
+                    "desc": "Quality control of new Maker file",
+                    "date": 1486994668.580492
+                },
                 {
-                    "date": 1487005746.507471, 
-                    "desc": "improve styling of models in Apollo2", 
-                    "issue": 265, 
-                    "task_id": "matt:265", 
-                    "devel": "matt"
-                }, 
+                    "task_id": "matt:265",
+                    "issue": 265,
+                    "devel": "matt",
+                    "desc": "improve styling of models in Apollo2",
+                    "date": 1487005746.507471
+                },
                 {
-                    "date": 1487005803.96291, 
-                    "desc": "Selenium test script for HMMER and Clustal", 
-                    "issue": 275, 
-                    "task_id": "kaleb:275", 
-                    "devel": "kaleb"
-                }, 
+                    "task_id": "kaleb:275",
+                    "issue": 275,
+                    "devel": "kaleb",
+                    "desc": "Selenium test script for HMMER and Clustal",
+                    "date": 1487005803.96291
+                },
                 {
-                    "date": 1487005806.264403, 
-                    "desc": "Add medfly OGS", 
-                    "issue": 276, 
-                    "task_id": "cara:276", 
-                    "devel": "cara"
-                }, 
+                    "task_id": "cara:276",
+                    "issue": 276,
+                    "devel": "cara",
+                    "desc": "Add medfly OGS",
+                    "date": 1487005806.264403
+                },
                 {
-                    "date": 1487005808.730456, 
-                    "desc": "Issues for the MERGE phase of Diaphorina gff files", 
-                    "issue": 244, 
-                    "task_id": "cara:244", 
-                    "devel": "cara"
-                }, 
+                    "task_id": "cara:244",
+                    "issue": 244,
+                    "devel": "cara",
+                    "desc": "Issues for the MERGE phase of Diaphorina gff files",
+                    "date": 1487005808.730456
+                },
                 {
-                    "date": 1487009515.245315, 
-                    "desc": "Style issues for the main site", 
-                    "issue": 165, 
-                    "task_id": "andy:165", 
-                    "devel": "andy"
-                }, 
+                    "task_id": "andy:165",
+                    "issue": 165,
+                    "devel": "andy",
+                    "desc": "Style issues for the main site",
+                    "date": 1487009515.245315
+                },
                 {
-                    "date": 1487009515.57481, 
-                    "desc": "Add file upload capability", 
-                    "issue": 78, 
-                    "task_id": "andy:78", 
-                    "devel": "andy"
-                }, 
+                    "task_id": "andy:78",
+                    "issue": 78,
+                    "devel": "andy",
+                    "desc": "Add file upload capability",
+                    "date": 1487009515.57481
+                },
                 {
-                    "date": 1487025227.8438, 
-                    "desc": "Dashboard Widget Demo", 
-                    "issue": 277, 
-                    "task_id": "joseph:277", 
-                    "devel": "joseph"
-                }, 
+                    "task_id": "joseph:277",
+                    "issue": 277,
+                    "devel": "joseph",
+                    "desc": "Dashboard Widget Demo",
+                    "date": 1487025227.8438
+                },
                 {
-                    "date": 1487168298.444033, 
-                    "desc": "gff-QC.py: Discussion on Missing ID issue", 
-                    "issue": 233, 
-                    "task_id": "hugh:233", 
-                    "devel": "hugh"
-                }, 
+                    "task_id": "hugh:233",
+                    "issue": 233,
+                    "devel": "hugh",
+                    "desc": "gff-QC.py: Discussion on Missing ID issue",
+                    "date": 1487168298.444033
+                },
                 {
-                    "date": 1487171333.996252, 
-                    "desc": "Document Dashboard's Gridstack", 
-                    "issue": 245, 
-                    "task_id": "joseph:245", 
-                    "devel": "joseph"
-                }, 
+                    "task_id": "joseph:245",
+                    "issue": 245,
+                    "devel": "joseph",
+                    "desc": "Document Dashboard's Gridstack",
+                    "date": 1487171333.996252
+                },
                 {
-                    "date": 1488426368.652737, 
-                    "desc": "Issues for the MERGE phase of Diaphorina gff files", 
-                    "issue": 244, 
-                    "task_id": "andy:244", 
-                    "devel": "andy"
-                }, 
+                    "task_id": "andy:244",
+                    "issue": 244,
+                    "devel": "andy",
+                    "desc": "Issues for the MERGE phase of Diaphorina gff files",
+                    "date": 1488426368.652737
+                },
                 {
-                    "date": 1488426369.192863, 
-                    "desc": "Issues for the MERGE phase of Diaphorina gff files", 
-                    "issue": 244, 
-                    "task_id": "matt:244", 
-                    "devel": "matt"
-                }, 
+                    "task_id": "matt:244",
+                    "issue": 244,
+                    "devel": "matt",
+                    "desc": "Issues for the MERGE phase of Diaphorina gff files",
+                    "date": 1488426369.192863
+                },
                 {
-                    "date": 1488426369.799173, 
-                    "desc": "Issues for the MERGE phase of Diaphorina gff files", 
-                    "issue": 244, 
-                    "task_id": "joseph:244", 
-                    "devel": "joseph"
-                }, 
+                    "task_id": "joseph:244",
+                    "issue": 244,
+                    "devel": "joseph",
+                    "desc": "Issues for the MERGE phase of Diaphorina gff files",
+                    "date": 1488426369.799173
+                },
                 {
-                    "date": 1488426370.357781, 
-                    "desc": "Issues for the MERGE phase of Diaphorina gff files", 
-                    "issue": 244, 
-                    "task_id": "kaleb:244", 
-                    "devel": "kaleb"
-                }, 
+                    "task_id": "kaleb:244",
+                    "issue": 244,
+                    "devel": "kaleb",
+                    "desc": "Issues for the MERGE phase of Diaphorina gff files",
+                    "date": 1488426370.357781
+                },
                 {
-                    "date": 1488426370.990471, 
-                    "desc": "Add medfly OGS", 
-                    "issue": 276, 
-                    "task_id": "andy:276", 
-                    "devel": "andy"
-                }, 
+                    "task_id": "andy:276",
+                    "issue": 276,
+                    "devel": "andy",
+                    "desc": "Add medfly OGS",
+                    "date": 1488426370.990471
+                },
                 {
-                    "date": 1488426371.45175, 
-                    "desc": "Add medfly OGS", 
-                    "issue": 276, 
-                    "task_id": "matt:276", 
-                    "devel": "matt"
+                    "task_id": "matt:276",
+                    "issue": 276,
+                    "devel": "matt",
+                    "desc": "Add medfly OGS",
+                    "date": 1488426371.45175
                 }
-            ], 
+            ],
             "dev_list": [
-                "matt", 
-                "kaleb", 
-                "hugh", 
-                "joseph", 
-                "andy", 
-                "cara"
-            ], 
-            "sprint_active": true, 
-            "sprint_date": 1488214573, 
+                "kaleb",
+                "matt",
+                "hugh",
+                "cara",
+                "joseph",
+                "andy"
+            ],
             "scrum_list": [
                 {
+                    "scrum_number": 0,
+                    "scrum_active": false,
                     "scrum_task_list": [
                         {
-                            "date": 1488214573.800678, 
-                            "progress": 10, 
-                            "today": false, 
-                            "task_id": "hugh:262", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "hugh:262",
+                            "progress": 10,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1488214573.800678
+                        },
                         {
-                            "date": 1488214573.80069, 
-                            "progress": 80, 
-                            "today": false, 
-                            "task_id": "matt:261", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:261",
+                            "progress": 80,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1488214573.80069
+                        },
                         {
-                            "date": 1488214573.800701, 
-                            "progress": 30, 
-                            "today": false, 
-                            "task_id": "matt:259", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:259",
+                            "progress": 30,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1488214573.800701
+                        },
                         {
-                            "date": 1488214573.800711, 
-                            "progress": 60, 
-                            "today": false, 
-                            "task_id": "cara:268", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:268",
+                            "progress": 60,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1488214573.800711
+                        },
                         {
-                            "date": 1488214573.800719, 
-                            "progress": 10, 
-                            "today": false, 
-                            "task_id": "andy:255", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "andy:255",
+                            "progress": 10,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1488214573.800719
+                        },
                         {
-                            "date": 1488214573.800729, 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "cara:251", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:251",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1488214573.800729
+                        },
                         {
-                            "date": 1488214573.800739, 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "matt:241", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:241",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1488214573.800739
+                        },
                         {
-                            "date": 1488214573.800748, 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "cara:118", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:118",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1488214573.800748
+                        },
                         {
-                            "date": 1488214573.800755, 
-                            "progress": 90, 
-                            "today": false, 
-                            "task_id": "hugh:273", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "hugh:273",
+                            "progress": 90,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1488214573.800755
+                        },
                         {
-                            "date": 1488214573.800764, 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "matt:265", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:265",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1488214573.800764
+                        },
                         {
-                            "date": 1488214573.800771, 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "kaleb:275", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "kaleb:275",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1488214573.800771
+                        },
                         {
-                            "date": 1488214573.800779, 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "cara:276", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:276",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1488214573.800779
+                        },
                         {
-                            "date": 1488214573.800787, 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "cara:244", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "cara:244",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1488214573.800787
+                        },
                         {
-                            "date": 1488214573.800795, 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "andy:165", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "andy:165",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1488214573.800795
+                        },
                         {
-                            "date": 1488214573.800802, 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "andy:78", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "andy:78",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1488214573.800802
+                        },
                         {
-                            "date": 1488214573.800811, 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "joseph:277", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "joseph:277",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1488214573.800811
+                        },
                         {
-                            "date": 1488214573.800818, 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "hugh:233", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "hugh:233",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1488214573.800818
+                        },
                         {
-                            "date": 1488214573.800827, 
-                            "progress": 0, 
-                            "today": false, 
-                            "task_id": "joseph:245", 
-                            "blocker": ""
+                            "task_id": "joseph:245",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": false,
+                            "date": 1488214573.800827
                         }
-                    ], 
-                    "scrum_number": 0, 
-                    "scrum_active": false
-                }, 
+                    ]
+                },
                 {
+                    "scrum_number": 1,
+                    "scrum_active": false,
                     "scrum_task_list": [
                         {
-                            "date": 1488214573.800701, 
-                            "progress": 0, 
-                            "today": true, 
-                            "task_id": "matt:259", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:259",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": true,
+                            "date": 1488214573.800701
+                        },
                         {
-                            "date": 1488214573.800738, 
-                            "progress": 0, 
-                            "today": true, 
-                            "task_id": "matt:241", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:241",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": true,
+                            "date": 1488214573.800738
+                        },
                         {
-                            "date": 1488214573.80081, 
-                            "progress": 0, 
-                            "today": true, 
-                            "task_id": "joseph:277", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "joseph:277",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": true,
+                            "date": 1488214573.80081
+                        },
                         {
-                            "date": 1488214573.800826, 
-                            "progress": 0, 
-                            "today": true, 
-                            "task_id": "joseph:245", 
-                            "blocker": ""
+                            "task_id": "joseph:245",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": true,
+                            "date": 1488214573.800826
                         }
-                    ], 
-                    "scrum_number": 1, 
-                    "scrum_active": false
-                }, 
+                    ]
+                },
                 {
+                    "scrum_number": 2,
+                    "scrum_active": true,
                     "scrum_task_list": [
                         {
-                            "date": 1488214611.760315, 
-                            "progress": 0, 
-                            "today": true, 
-                            "task_id": "matt:259", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:259",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": true,
+                            "date": 1488214611.760315
+                        },
                         {
-                            "date": 1488214611.760334, 
-                            "progress": 0, 
-                            "today": true, 
-                            "task_id": "matt:241", 
-                            "blocker": ""
-                        }, 
+                            "task_id": "matt:241",
+                            "progress": 0,
+                            "blocker": "",
+                            "today": true,
+                            "date": 1488214611.760334
+                        },
                         {
-                            "date": 1488426412.086424, 
-                            "progress": "0", 
-                            "today": true, 
-                            "task_id": "joseph:277", 
-                            "blocker": "asdasdadasdasd"
-                        }, 
+                            "task_id": "joseph:277",
+                            "progress": "0",
+                            "blocker": "asdasdadasdasd",
+                            "today": true,
+                            "date": 1488426412.086424
+                        },
                         {
-                            "date": 1488426412.086496, 
-                            "progress": "0", 
-                            "today": true, 
-                            "task_id": "joseph:245", 
-                            "blocker": "asdasdasdasdasd"
-                        }, 
+                            "task_id": "joseph:245",
+                            "progress": "0",
+                            "blocker": "asdasdasdasdasd",
+                            "today": true,
+                            "date": 1488426412.086496
+                        },
                         {
-                            "date": 1488426412.086542, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "joseph:244", 
-                            "blocker": "asdasdasdasdasd"
-                        }, 
+                            "task_id": "joseph:244",
+                            "progress": "0",
+                            "blocker": "asdasdasdasdasd",
+                            "today": false,
+                            "date": 1488426412.086542
+                        },
                         {
-                            "date": 1488426432.918338, 
-                            "progress": "10", 
-                            "today": false, 
-                            "task_id": "andy:255", 
-                            "blocker": "234523423424"
-                        }, 
+                            "task_id": "andy:255",
+                            "progress": "10",
+                            "blocker": "234523423424",
+                            "today": false,
+                            "date": 1488426432.918338
+                        },
                         {
-                            "date": 1488426432.918412, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "andy:276", 
-                            "blocker": "234234234234234"
-                        }, 
+                            "task_id": "andy:276",
+                            "progress": "0",
+                            "blocker": "234234234234234",
+                            "today": false,
+                            "date": 1488426432.918412
+                        },
                         {
-                            "date": 1488426432.918458, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "andy:244", 
-                            "blocker": "2234234234"
-                        }, 
+                            "task_id": "andy:244",
+                            "progress": "0",
+                            "blocker": "2234234234",
+                            "today": false,
+                            "date": 1488426432.918458
+                        },
                         {
-                            "date": 1488426432.918505, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "andy:165", 
-                            "blocker": "24234234234234"
-                        }, 
+                            "task_id": "andy:165",
+                            "progress": "0",
+                            "blocker": "24234234234234",
+                            "today": false,
+                            "date": 1488426432.918505
+                        },
                         {
-                            "date": 1488426432.918554, 
-                            "progress": "0", 
-                            "today": false, 
-                            "task_id": "andy:78", 
-                            "blocker": "234234234234"
+                            "task_id": "andy:78",
+                            "progress": "0",
+                            "blocker": "234234234234",
+                            "today": false,
+                            "date": 1488426432.918554
                         }
-                    ], 
-                    "scrum_number": 2, 
-                    "scrum_active": true
+                    ]
                 }
-            ], 
-            "sprint_number": 5
+            ]
         }
-    ], 
-    "name": "i5k Workspace", 
-    "repo_url": "https://gitlab.com/api/v3/projects/2693506/repository/files"
+    ]
 }

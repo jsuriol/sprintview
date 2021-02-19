@@ -26,7 +26,7 @@ export SPRINTVIEW_DEVELOPERS='{ \
 }'
 
 
-#export SPRINTVIEW_PATH="./project_data"
+export SPRINTVIEW_PATH="./project_data"
 #
 # Start Sprint View server in debug mode. 
 #
